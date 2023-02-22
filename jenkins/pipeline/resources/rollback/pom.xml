@@ -10,7 +10,7 @@
 			<groupId>${app.groupId}</groupId>
 			<artifactId>${app.artifactId}</artifactId>
 			<version>${app.version}</version>
-			<!--<classifier>mule-application</classifier>-->
+			<classifier>mule-application</classifier>
 		</dependency>
 	</dependencies>
 	<repositories>
